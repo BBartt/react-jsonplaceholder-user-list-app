@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-jsonplaceholder-user-list-app/static/css/main.64531377.chunk.css",
+    "main.js": "/react-jsonplaceholder-user-list-app/static/js/main.7a38a8d1.chunk.js",
+    "main.js.map": "/react-jsonplaceholder-user-list-app/static/js/main.7a38a8d1.chunk.js.map",
+    "runtime-main.js": "/react-jsonplaceholder-user-list-app/static/js/runtime-main.654155e9.js",
+    "runtime-main.js.map": "/react-jsonplaceholder-user-list-app/static/js/runtime-main.654155e9.js.map",
+    "static/js/2.8f1acccd.chunk.js": "/react-jsonplaceholder-user-list-app/static/js/2.8f1acccd.chunk.js",
+    "static/js/2.8f1acccd.chunk.js.map": "/react-jsonplaceholder-user-list-app/static/js/2.8f1acccd.chunk.js.map",
+    "index.html": "/react-jsonplaceholder-user-list-app/index.html",
+    "static/css/main.64531377.chunk.css.map": "/react-jsonplaceholder-user-list-app/static/css/main.64531377.chunk.css.map",
+    "static/js/2.8f1acccd.chunk.js.LICENSE.txt": "/react-jsonplaceholder-user-list-app/static/js/2.8f1acccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.654155e9.js",
+    "static/js/2.8f1acccd.chunk.js",
+    "static/css/main.64531377.chunk.css",
+    "static/js/main.7a38a8d1.chunk.js"
+  ]
+}
