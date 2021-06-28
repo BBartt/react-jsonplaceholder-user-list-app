@@ -26,7 +26,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    const fetchUsers = async () => {
+    const fetchUsers = () => {
       setIsLoading(true);
       
       fetchData(BASE_URL, onFetchSuccess("No data"), onFetchError);
